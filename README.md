@@ -25,7 +25,7 @@ Other things to include:
 
 **Screenshot**: If the software has visual components, place a screenshot after the description; e.g.&mdash;
 
-![](https://raw.githubusercontent.com/virtix/open-source-project-template/master/screenshot.png =400x)
+![](https://raw.githubusercontent.com/virtix/open-source-project-template/master/screenshot.png)
 
 
 ## How to get this running or how to use it
