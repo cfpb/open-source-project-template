@@ -23,7 +23,9 @@ Other things to include:
   - Describe what sets this apart from related-projects. Again, a link to another doc is OK if this can't be expressed in a sentence or two
 
 
-**Screenshot**: If the software has visual components, place a screenshot after the description
+**Screenshot**: If the software has visual components, place a screenshot after the description; e.g.&mdash;
+
+![](https://raw.githubusercontent.com/virtix/open-source-project-template/master/screenshot.png =400x)
 
 
 ## How to get this running or how to use it
