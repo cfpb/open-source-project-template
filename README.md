@@ -18,7 +18,7 @@ this project is trying to accomplish and why it matters.
 
 Other things to include:
 
-  - **Status*:  Alpha, Beta, 1.1, etc. It's OK to write a sentence, too.  The goal is to let interested people know where this project is at. This is also a good place to link to the [CHANGELOG](CHANGELOG.md)
+  - **Status**:  Alpha, Beta, 1.1, etc. It's OK to write a sentence, too.  The goal is to let interested people know where this project is at. This is also a good place to link to the [CHANGELOG](CHANGELOG.md)
   - **Links to production or demo instances**
   - Describe what sets this apart from related-projects. Again, a link to another doc is OK if this can't be expressed in a sentence or two
 
