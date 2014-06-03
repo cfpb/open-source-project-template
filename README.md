@@ -20,7 +20,7 @@ Other things to include:
 
   - **Status**:  Alpha, Beta, 1.1, etc. It's OK to write a sentence, too.  The goal is to let interested people know where this project is at. This is also a good place to link to the [CHANGELOG](CHANGELOG.md)
   - **Links to production or demo instances**
-  - Describe what sets this apart from related-projects. Again, a link to another doc is OK if this can't be expressed in a sentence or two
+  - Describe what sets this apart from related-projects. Linking to another doc or page is OK if this can't be expressed in a sentence or two
 
 
 **Screenshot**: If the software has visual components, place a screenshot after the description; e.g.&mdash;
@@ -41,24 +41,24 @@ This section should detail why people should get involved and describe key areas
 currently focusing on; e.g., trying to get feedback on features, fixing certain bugs, building
 important pieces, etc.  
 
-General instructions on _how_ to contribute should be stated with a link(CONTRIBUTING.md) 
+General instructions on _how_ to contribute should be stated with a link to [CONTRIBUTING.md](CONTRIBUTING.md) 
 
 
 ____
 
 ## Open Source Licensing Info
-1. [License](LICENSE)
+1. [LICENSE](LICENSE)
 2. [TERMS](TERMS.md)
 3. [CFPB Source Code Policy](http://github.com/cfpb/source-code-policy/)
 
 
 ----
 
-### Credits and References
+## Credits and References
 
 1. Projects that inspired you
 2. Related projects
-3. Book, papers, or other writings that
+3. Books, papers, talks, or other sources that have meaniginful impact or influence on this project 
 
 
 
