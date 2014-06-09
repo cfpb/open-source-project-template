@@ -44,7 +44,7 @@ author or the affirmer.
 
 ## Exceptions
 
-_:Source code or other assets that are excluded from the TERMS should be listed
+_Source code or other assets that are excluded from the TERMS should be listed
 here. These may include dependencies that may be licensed differently or are
 not in the public domain._
 
