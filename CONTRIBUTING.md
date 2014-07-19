@@ -1,8 +1,8 @@
 # Guidance on how to contribute
 
-> All contributions to this project will be released under the CC0
-> dedication. By submitting a pull request, or filing a bug, issue, or 
-> feature-request you are agreeing to comply with this waiver of copyright interest.
+> All contributions to this project will be released under the CC0 public domain
+> dedication. By submitting a pull request or filing a bug, issue, or 
+> feature request, you are agreeing to comply with this waiver of copyright interest.
 > Details can be found in our [TERMS](TERMS.md) and [LICENCE](LICENSE).
 
 
@@ -25,21 +25,8 @@ guidance below.
 ## Changing the code-base
 
 Generally speaking, you should fork this repository, make changes in your
-own fork, and then submit a pull-request.  All new code should have associated unit
+own fork, and then submit a pull-request. All new code should have associated unit
 tests that validate implemented features and the presence or lack of defects. 
 Additionally, the code should follow any stylistic and architectural guidelines 
 prescribed by the project. In the absence of such guidelines, mimic the styles
 and patterns in the existing code-base.
-
-----
-
-## Public domain
-
-The project is in the public domain within the United States, and
-copyright and related rights in the work worldwide are waived through
-the [CC0 1.0 Universal public domain dedication][CC0].
-
-
-[CC0]: http://creativecommons.org/publicdomain/zero/1.0/
-
-
