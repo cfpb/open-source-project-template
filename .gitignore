@@ -32,5 +32,8 @@ htmlcov/
 nosetests.xml
 coverage.xml
 
-
-
+# Front-End #
+#############
+node_modules/
+bower_components/
+.grunt/
