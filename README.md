@@ -6,8 +6,9 @@
 4. Add any libraries, assets, or hard dependencies whose source code will be included
    in the project's repository to the _Exceptions_ section in the [TERMS](TERMS.md).
   - If no exceptions are needed, remove that section from TERMS.
-5. Delete these instructions and everything up to the _Project Title_ from the README.
-6. Write some great software and tell people about it.
+5. If working with an existing code base, answer the questions on the [open source checklist](opensource-checklist.md) 
+6. Delete these instructions and everything up to the _Project Title_ from the README.
+7. Write some great software and tell people about it.
 
 > Keep the README fresh! It's the first thing people see and will make the initial impression.
 
