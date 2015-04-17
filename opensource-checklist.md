@@ -71,5 +71,3 @@ Prior to releasing a project to GitHub.com, walk through these items and ensure 
  - [https://github.com/cfpb/idea-box](https://github.com/cfpb/idea-box)
  - [https://github.com/cfpb/hmda-tool](https://github.com/cfpb/hmda-tools)
  - [https://github.com/cfpb/django-cache-tools](https://github.com/cfpb/django-cache-tools)
-
-
