@@ -95,4 +95,4 @@ General instructions on _how_ to contribute should be stated with a link to [CON
 
 1. Projects that inspired you
 2. Related projects
-3. Books, papers, talks, or other sources that have meaniginful impact or influence on this project
+3. Books, papers, talks, or other sources that have meaningful impact or influence on this project
