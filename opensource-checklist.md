@@ -13,6 +13,7 @@ Prior to releasing a project to GitHub.com, walk through these items and ensure 
   - If there are images, visually inspect each image to ensure there is no CFPB-specific information.
 
 - **Have security vulnerabilities been remediated?**
+  - Check your Node project for npm security best practices with [vax](https://github.com/cfpb/vax)  
   - Use the [OWASP Top 10](https://www.owasp.org/index.php/Top_10_2013)
   - [National Vulnerability Database](http://nvd.nist.gov/)
   - [SANS Swat Checklist](http://www.securingthehuman.org/developer/swat)
