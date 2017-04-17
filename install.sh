@@ -27,12 +27,16 @@ echo "downloading files"
 for file in "${root_files[@]}"; do
   if [ ! -f "./${file}" ]; then
     curl -so "./${file}" "${url}/${file}"
+  else
+    echo "${file} already exists, skipping"
   fi
 done
 
 for file in "${gh_files[@]}"; do
   if [ ! -f "./${file}" ]; then
     curl -so ".github/${file}" "${url}/.github/${file}"
+  else
+    echo ".github/${file} already exists, skipping"
   fi
 done
 
