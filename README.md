@@ -17,7 +17,7 @@
 To install all of the template files, run the following script from the root of your project's directory:
 
 ```
-bash -c "$(curl -s https://raw.githubusercontent.com/CFOB/open-source-project-template/master/install.sh)"
+bash -c "$(curl -s https://raw.githubusercontent.com/CFPB/open-source-project-template/master/install.sh)"
 ```
 
 ----
