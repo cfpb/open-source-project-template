@@ -1,7 +1,7 @@
 #### CFPB Open Source Project Template Instructions
 
 1. Create a new project.
-2. Copy these files into the new project.
+2. [Copy these files into the new project](#installation)
 3. Update the README, replacing the contents below as prescribed.
 4. Add any libraries, assets, or hard dependencies whose source code will be included
    in the project's repository to the _Exceptions_ section in the [TERMS](TERMS.md).
@@ -11,6 +11,14 @@
 7. Write some great software and tell people about it.
 
 > Keep the README fresh! It's the first thing people see and will make the initial impression.
+
+## Installation
+
+To install all of the template files, run the following script from the root of your project's directory:
+
+```
+bash -c "$(curl -s https://raw.githubusercontent.com/CFOB/open-source-project-template/master/install.sh)"
+```
 
 ----
 
