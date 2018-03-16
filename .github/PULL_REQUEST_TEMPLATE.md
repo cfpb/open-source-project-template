@@ -29,6 +29,7 @@
 
 ## Checklist
 
+- [ ] PR has an informative and human-readable title
 - [ ] Changes are limited to a single goal (no scope creep)
 - [ ] Code can be automatically merged (no conflicts)
 - [ ] Code follows the standards laid out in the [development playbook](https://github.com/cfpb/development)
