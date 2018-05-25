@@ -49,6 +49,10 @@ __pycache__/
 *.py[cod]
 .env
 
+# pyenv #
+#########
+.python-version
+
 # Django #
 #################
 *.egg-info
