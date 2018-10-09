@@ -48,6 +48,7 @@ Thumbs.db
 __pycache__/
 *.py[cod]
 .env
+.python-version
 
 # pyenv #
 #########
