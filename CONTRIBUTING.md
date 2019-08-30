@@ -35,5 +35,6 @@ and patterns in the existing code-base.
 ## Browser support
 
 We configure our build chain tools
-(typically [Autoprefixer](https://github.com/postcss/autoprefixer) and/or [Babel](https://babeljs.io)
+(typically [Autoprefixer](https://github.com/postcss/autoprefixer)
+and [Babel](https://babeljs.io))
 to support a reasonable set of backward compatibility with older browsers.
