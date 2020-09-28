@@ -4,12 +4,13 @@
 
 The [Consumer Financial Protection Bureau](https://www.consumerfinance.gov) (CFPB) is committed to 
 building a safe, welcoming, harassment-free culture for everyone. We do not merely want an 
-environment that is free from hostility; we want one that is actively welcoming and inclusive. We 
+environment that is free from hostility, we want one that is actively welcoming and inclusive. We 
 want our team, our workplace culture, and our open source community to reflect and celebrate the 
 diversity of the people we serve.
 
 This Code of Conduct summarizes federal anti-harassment law and CFPB policy. 
-Scope
+
+## Scope
 
 We expect everyone on the CFPB team, and those contributing to our open source community, to exhibit 
 these behaviors and abide by applicable federal laws and CFPB policies. In addition, we expect 
@@ -23,7 +24,7 @@ anti-harassment laws and federal policies on harassment. These spaces include:
 
 ## What we strive for
 
-At CFPB, we strive to create a welcoming and inclusive culture that empowers people to best protect 
+At the CFPB, we strive to create a welcoming and inclusive culture that empowers people to best protect 
 the financial interests of all consumers. That kind of atmosphere requires an open exchange of ideas 
 balanced by thoughtful guidelines. Examples of behavior that contributes to a positive environment 
 for our open source community include:
@@ -37,7 +38,7 @@ for our open source community include:
 ## Unacceptable behavior
 
 To help understand the kinds of behaviors that are illegal or run counter to the culture we seek to 
-foster, we've listed below actions that violate federal law and CFPB policy. We've also included 
+foster, we've listed some actions below that violate federal law and CFPB policy. We've also included 
 steps to take if you encounter behavior that runs contrary to this policy.
 
 The CFPB Policy Statement on Equal Employment Opportunity and Workplace Harassment forbids 
@@ -92,22 +93,22 @@ Washington, D.C. 20552
 
 For help filing a complaint about discrimination on the basis of marital status, political 
 affiliation, or any other non-merit factor, or for claims of retaliation for whistleblower activity, 
-contact the Office of Special Counsel  or the Merit Systems Protection Board .
+contact the Office of Special Counsel or the Merit Systems Protection Board .
 
 For help filing a complaint about discrimination on the basis of uniformed status, you may contact 
-the Veterans’ Employment and Training Service (VETS)  at the Department of Labor, the Merit Systems 
-Protection Board , or the Office of Special Counsel , depending on the circumstances.
+the Veterans’ Employment and Training Service (VETS) at the Department of Labor, the Merit Systems 
+Protection Board, or the Office of Special Counsel, depending on the circumstances.
 
 For help filing a complaint about discrimination on the basis of membership in a labor organization, 
-you may contact the Federal Labor Relations Authority  or your union (if applicable).
+you may contact the Federal Labor Relations Authority or your union (if applicable).
 
 ### Equal employment opportunity policy
 
-For more information about CFPB’s equal employment opportunity (EEO) policyies and procedures visit https://www.consumerfinance.gov/office-civil-rights/eeo-policy-and-reports/ 
+For more information about the CFPB’s equal employment opportunity (EEO) policies and procedures visit https://www.consumerfinance.gov/office-civil-rights/eeo-policy-and-reports/ 
 
 ## Credits
 
-CFPB is greatly appreciative of the multiple sources that we drew from to build this Code of Conduct, including:
+The CFPB is greatly appreciative of the multiple sources that we drew from to build this Code of Conduct, including:
 
 - [The Technology Transformation Services (TTS) Code of Conduct](https://18f.gsa.gov/code-of-conduct/)
 - [The Contributor Covenant](https://www.contributor-covenant.org/)
