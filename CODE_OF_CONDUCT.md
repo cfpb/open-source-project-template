@@ -78,7 +78,7 @@ If you are a CFPB employee, former CFPB employee, or job applicant to CFPB and b
 discriminated against or harassed on the basis of race, color, religion, sex (including pregnancy, 
 sexual orientation, transgender status, gender identity or expression, gender non-conformity, or sex 
 stereotyping of any kind), national origin, disability, age (40 years or older), genetic information, 
-parental status or retaliated against for prior EEO activity, contact the CFPB’s EEO Office.
+parental status or retaliated against for prior Equal Employment Opportunity (EEO) activity, contact the CFPB’s EEO Office.
 
 CFPB_EEO@consumerfinance.gov
 
