@@ -92,15 +92,13 @@ Consumer Financial Protection Bureau
 Washington, D.C. 20552
 
 For help filing a complaint about discrimination on the basis of marital status, political 
-affiliation, or any other non-merit factor, or for claims of retaliation for whistleblower activity, 
-contact the Office of Special Counsel or the Merit Systems Protection Board.
+affiliation, or any other non-merit factor, or for claims of retaliation for [whistleblower activity](https://www.consumerfinance.gov/office-civil-rights/whistleblowers/), contact the [Office of Special Counsel](http://www.osc.gov/) or the [Merit Systems Protection Board](http://www.mspb.gov/).
 
 For help filing a complaint about discrimination on the basis of uniformed status, you may contact 
-the Veterans’ Employment and Training Service (VETS) at the Department of Labor, the Merit Systems 
-Protection Board, or the Office of Special Counsel, depending on the circumstances.
+the [Veterans’ Employment and Training Service (VETS)](http://www.dol.gov/vets/) at the Department of Labor, the [Merit Systems Protection Board](http://www.mspb.gov/), or the [Office of Special Counsel](https://osc.gov/), depending on the circumstances.
 
 For help filing a complaint about discrimination on the basis of membership in a labor organization, 
-you may contact the Federal Labor Relations Authority or your union (if applicable).
+you may contact the [Federal Labor Relations Authority](http://flra.gov/) or your union (if applicable).
 
 ### Equal employment opportunity policy
 
