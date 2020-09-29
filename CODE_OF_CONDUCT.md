@@ -78,7 +78,7 @@ If you are a CFPB employee, former CFPB employee, or job applicant to CFPB and b
 discriminated against or harassed on the basis of race, color, religion, sex (including pregnancy, 
 sexual orientation, transgender status, gender identity or expression, gender non-conformity, or sex 
 stereotyping of any kind), national origin, disability, age (40 years or older), genetic information, 
-parental status or retaliated against for prior Equal Employment Opportunity (EEO) activity, contact the CFPB’s EEO Office.
+parental status, or retaliated against for prior Equal Employment Opportunity (EEO) activity, contact the CFPB’s EEO Office.
 
 CFPB_EEO@consumerfinance.gov
 
@@ -93,7 +93,7 @@ Washington, D.C. 20552
 
 For help filing a complaint about discrimination on the basis of marital status, political 
 affiliation, or any other non-merit factor, or for claims of retaliation for whistleblower activity, 
-contact the Office of Special Counsel or the Merit Systems Protection Board .
+contact the Office of Special Counsel or the Merit Systems Protection Board.
 
 For help filing a complaint about discrimination on the basis of uniformed status, you may contact 
 the Veterans’ Employment and Training Service (VETS) at the Department of Labor, the Merit Systems 
