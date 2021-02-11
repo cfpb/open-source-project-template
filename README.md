@@ -17,7 +17,7 @@
 To install all of the template files, run the following script from the root of your project's directory:
 
 ```
-bash -c "$(curl -s https://raw.githubusercontent.com/CFPB/development/master/open-source-template.sh)"
+bash -c "$(curl -s https://raw.githubusercontent.com/CFPB/development/main/open-source-template.sh)"
 ```
 
 ----
@@ -39,7 +39,7 @@ Other things to include:
 
 **Screenshot**: If the software has visual components, place a screenshot after the description; e.g.,
 
-![](https://raw.githubusercontent.com/cfpb/open-source-project-template/master/screenshot.png)
+![](https://raw.githubusercontent.com/cfpb/open-source-project-template/main/screenshot.png)
 
 
 ## Dependencies

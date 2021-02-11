@@ -40,5 +40,5 @@ and [Babel](https://babeljs.io))
 to support a reasonable set of backward compatibility with older browsers.
 
 Please read up on
-[our current browser support guidance](https://github.com/cfpb/development/blob/master/guides/browser-support.md)
+[our current browser support guidance](https://github.com/cfpb/development/blob/main/guides/browser-support.md)
 and follow it when contributing to this project.
